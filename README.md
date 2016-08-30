@@ -6,7 +6,7 @@ described in Vaghul and Zipperer (2016).
 ## Contents of /code/
 Run the following do-files to create the state and substate-level extracts.
 You will need to change the ${home} directory in these do-files to match
-your directory setup. 
+your directory setup. Additionally, within the ${home} directory, you will need to create an exports/ and a release/ folder in order for the code to run. 
 
 1. state_mw.do - creates a state-level data 
 2. substate_mw.do - creates substate-level data (requires output of state_mw.do)
