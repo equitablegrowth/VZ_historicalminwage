@@ -12,7 +12,7 @@ your directory setup.
 
 ## Contents of rawdata/
 These spreadsheets are the raw data called by the do-files above:
-VZ_SubstateMinimumWage_Changes.xlsx                   substate-level changes
-VZ_HistoricalMinWage_Changes_6.27.2016.xlsx           state-level changes
-VZ_HistoricalMinWage_Federal_Changes_6.27.2016.xlsx   federal changes
-FIPS_crosswalk.xlsx                                   misc. state geography
+*VZ_SubstateMinimumWage_Changes.xlsx - substate-level changes
+*VZ_HistoricalMinWage_Changes_6.27.2016.xlsx - state-level changes
+*VZ_HistoricalMinWage_Federal_Changes_6.27.2016.xlsx - federal changes
+*FIPS_crosswalk.xlsx - misc. state geography
