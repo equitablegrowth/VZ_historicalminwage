@@ -8,9 +8,8 @@ Run the following do-files to create the state and substate-level extracts.
 You will need to change the $home directory in these do-files to match
 your directory setup. 
 
-1. state_mw.do creates a state-level data 
-2. substate_mw.do creates substate-level data (requires output of state_mw.do)
-3. 
+1. state_mw.do - creates a state-level data 
+2. substate_mw.do - creates substate-level data (requires output of state_mw.do)
 
 ## Contents of /rawdata/
 These spreadsheets are the raw data called by the do-files above:
