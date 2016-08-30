@@ -1,6 +1,6 @@
 *TITLE: HISTORICAL MINIMUM WAGES, Expanding the VZ Daily Minimum Wage Changes File
 *Date Created: 12.04.2015
-*Date Edited: 07.05.2016
+*Date Edited: 08.29.2016
 
 *Description: This .do file expands the VZ daily minimum wage changes by state file and merges it with a daily federal minimum wage changes file.
 
